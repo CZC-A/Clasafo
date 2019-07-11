@@ -6,6 +6,7 @@
 佰钧成技术有限责任公司|bill-jc|
 博彦科技股份有限公司|beyondsoft|
 东软院团股份有限很司|neusoft|
+德科信息技术有限公司|derkee|
 法本信息技术股份有限公司|farben|
 京北方信息技术股份有限公司|northking|
 软通动力信息技术（集团）有限公司|isoftstone|
