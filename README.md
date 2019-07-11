@@ -5,6 +5,7 @@
 埃森哲（中国）有限公司|accenture|
 佰钧成技术有限责任公司|bill-jc|
 博彦科技股份有限公司|beyondsoft|
+诚迈科技（南京）股份有限公司|archermind|
 东软院团股份有限很司|neusoft|
 德科信息技术有限公司|derkee|
 法本信息技术股份有限公司|farben|
