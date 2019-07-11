@@ -13,5 +13,6 @@
 佰钧成技术有限责任公司|bill-jc|
 亿达集团有限公司|yidagroup|
 易思博软件技术有限公司|broadengate
+紫川软件有限公司|purple-river
 中软国际科技服务有限公司|i cs&s|
 中科软科技股份有限公司|sinosoft|
