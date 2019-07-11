@@ -1,5 +1,4 @@
 # Clasafo
-Ch Li An St Aw Fr O.
 
 中文|英文|更多
 ---|:--:|---:
