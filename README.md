@@ -5,6 +5,7 @@
 埃森哲（中国）有限公司|accenture|
 博彦科技股份有限公司|beyondsoft|
 北京新思软件技术有限公司|bis|
+北京联龙博通电子商务技术有限公司|chinamworld|
 诚迈科技（南京）股份有限公司|archermind|
 东软集团股份有限公司|neusoft|
 京北方信息技术股份有限公司|northking|
