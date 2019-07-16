@@ -11,6 +11,7 @@
 京北方信息技术股份有限公司|northking|
 软通动力信息技术（集团）有限公司|isoftstone|
 上海易立德信息技术股份有限公司|e-lead|
+上海易宝软件有限公司|epro-software|
 苏州工业园区凌志软件股份有限公司|linkstec|
 深圳市德科信息技术有限公司|derkee|
 深圳市法本信息技术股份有限公司|farben|
