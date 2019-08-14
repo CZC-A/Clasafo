@@ -8,6 +8,7 @@
 北京联龙博通电子商务技术有限公司|chinamworld|
 诚迈科技（南京）股份有限公司|archermind|
 东软集团股份有限公司|neusoft|
+大连斯锐信息技术有限公司|neusoft|
 京北方信息技术股份有限公司|northking|
 昆山孚高通信息技术有限公司|camelotchina|
 软通动力信息技术（集团）有限公司|isoftstone|
